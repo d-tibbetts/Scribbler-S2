@@ -1,0 +1,53 @@
+F G .25
+F G .25
+F G .25
+F G .25
+F G .25
+F G .25
+
+E G .25
+E G .25
+E G .25
+E G .25
+E G .25
+E G .25
+
+D B .25
+D B .25
+D B .25
+D B .25
+D B .25
+D B .25
+
+C C6 .5
+C C6 .25
+C C6 .25
+D B .25
+E A .25
+
+F G .25
+F G .25
+F G .25
+F G .25
+F G .25
+F G .25
+
+E G .25
+E G .25
+E G .25
+E G .25
+E G .25
+E G .25
+
+D B .25
+D B .25
+D B .25
+D B .25
+E A .35
+D B .25
+
+C C6 .25
+F G .25
+C C6 .25
+
+
